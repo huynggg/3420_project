@@ -1,3 +1,3 @@
-# 3420_project
+# 3420-static-website
 
-A repository created for CSCE 3420 - UNT SPRING 2022
+Static webpage made for a CSCE 3420 Assignment
